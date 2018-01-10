@@ -4,7 +4,7 @@
 
 Simple application with Firebase Auth
 
-![FirebaseAuth]
+![FirebaseAuth](https://github.com/galikvalkin/react-native-firebase-auth-example/blob/master/FirebaseAuth.png)
 
 ## Installation
 
